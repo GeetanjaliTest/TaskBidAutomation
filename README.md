@@ -2,6 +2,7 @@
 
 This Google Apps Script automates the generation of a **Bid Worksheet** in Google Sheets. It calculates material and labor costs, applies tax, margin, and overhead, and outputs a formatted bid summary ready for client presentation or internal use.
 
+Google Sheet Link: https://docs.google.com/spreadsheets/d/1DfPSDNpHj_KapAe6wuq5H0Ur7bU7T-9nk3uU0EOE3Yk/edit?usp=sharing
 ---
 
 ## Features
